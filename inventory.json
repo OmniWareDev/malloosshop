@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Malloos T-Shirt",
+    "stock": 999999999998657,
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "name": "Malloos Floofy Slippers",
+    "stock": 0,
+    "price": 49.99
+  },
+  {
+    "id": 3,
+    "name": "Malloos Cat Leash",
+    "stock": -1,
+    "price": 20.99
+  }
+]
