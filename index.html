@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Malloos Shopoos</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    .products, .cart { margin-bottom: 30px; }
+    .item { border: 1px solid #ccc; padding: 10px; margin: 10px; width: 200px; display: inline-block; vertical-align: top; }
+    .cart-item { margin: 5px 0; }
+    button { margin-top: 5px; }
+  </style>
+</head>
+<body>
+  <h1>🛍️ Welcome to the Malloos Shopoos</h1>
+
+  <div class="products">
+    <h2>Products</h2>
+    <div id="products"></div>
+  </div>
+
+  <div class="cart">
+    <h2>Your Cart</h2>
+    <div id="cart">Cart is empty</div>
+    <button id="orderBtn">Place Order</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
