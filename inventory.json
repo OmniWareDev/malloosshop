@@ -1,20 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Malloos T-Shirt",
-    "stock": 999999999998657,
-    "price": 19.99
+    "name": "Malloos 'I Like to Pekh' T-Shirt",
+    "stock": "0 -- Coming soon!",
+    "price": 14.99
   },
   {
     "id": 2,
-    "name": "Malloos Floofy Slippers",
+    "name": "Malloos Laser Toy Rental (7 DAYS)",
     "stock": 0,
-    "price": 49.99
+    "price": 6.99
   },
   {
     "id": 3,
-    "name": "Malloos Cat Leash",
+    "name": "Malloos 'Scratched T-Shirt'",
     "stock": -1,
-    "price": 20.99
+    "price": 14.99
   }
+
 ]
