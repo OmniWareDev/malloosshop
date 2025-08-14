@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Malloos 'I Like to Pekh' T-Shirt",
-    "stock": "0 -- Coming soon!",
+    "stock": 0,
     "price": 14.99
   },
   {
@@ -19,3 +19,4 @@
   }
 
 ]
+
