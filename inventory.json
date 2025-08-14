@@ -7,9 +7,9 @@
   },
   {
     "id": 2,
-    "name": "Malloos Laser Toy Rental (7 DAYS)",
+    "name": "Malloos Laser Toy Rental (14 DAYS)",
     "stock": 0,
-    "price": 6.99
+    "price": 4.99
   },
   {
     "id": 3,
@@ -19,4 +19,5 @@
   }
 
 ]
+
 
